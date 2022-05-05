@@ -3,7 +3,7 @@
     <!--    头-->
     <div class="header">
       <img class="logo" alt="logo" src="./assets/logo.jpg">
-      <span class="title">编程名生成</span>
+      <span class="title">编程名称生成</span>
     </div>
     <!--    表单-->
     <el-form ref="form" :model="form">
